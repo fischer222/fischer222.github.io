@@ -1,0 +1,17 @@
+
+.cerveza{
+    display: none;
+    
+    overflow: hidden; 
+    margin: 0px; 
+    max-width: 186px; 
+    max-height: 248px;
+}
+
+.container{
+    margin: 0px;
+}
+
+.sss{
+    border: 3px solid rgb(201, 0, 1);
+}

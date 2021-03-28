@@ -13,7 +13,7 @@
 
 .opfiltro{
     
-    min-width: 4%;
+    min-width: 3%;
      
 }
 
@@ -46,4 +46,5 @@ label{
     font-weight: bolder;
     color: cornflowerblue;
     cursor: pointer;
+    
 }

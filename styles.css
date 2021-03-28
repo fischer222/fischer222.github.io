@@ -12,6 +12,13 @@
     margin: 0px;
 }
 
-.sss{
-    border: 3px solid rgb(201, 0, 1);
+.opfiltro{
+    
+    min-width: 5%;
+    
+    
+}
+
+.spanfiltro{
+    margin: 20px;
 }

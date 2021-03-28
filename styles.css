@@ -23,6 +23,7 @@
     margin-left: 1%;
     text-align: left;
     
+    
 }
 
 .spanfiltro{
@@ -47,4 +48,8 @@ label{
     color: cornflowerblue;
     cursor: pointer;
     
+}
+
+.encabezado{
+    background-color:lightgoldenrodyellow;
 }

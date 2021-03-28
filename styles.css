@@ -1,7 +1,6 @@
 
 .cerveza{
-    display: none;
-    
+    display: none;   
     overflow: hidden; 
     margin: 0px; 
     max-width: 186px; 
@@ -9,16 +8,42 @@
 }
 
 .container{
-    margin: 0px;
+    margin-top: 2%;
 }
 
 .opfiltro{
     
     min-width: 5%;
-    
+     
+}
+
+
+.filtro{
+    margin-top: 1%;
+    margin-left: 10%;
+    text-align: left;
     
 }
 
 .spanfiltro{
-    margin: 20px;
+    
+    margin: 2%;
+    font-size: x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+    
+}
+
+label{
+    font-size: large;
+    font-style: italic;
+    
+}
+
+#comando{
+    margin-left: 5%;
+    font-size: x-large;
+    font-weight: bolder;
+    color: cornflowerblue;
+    cursor: pointer;
 }

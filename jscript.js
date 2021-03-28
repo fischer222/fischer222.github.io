@@ -11,6 +11,8 @@
 //}
 
 
+
+
 function show(clase){
     
     $("iframe").attr("src", "about:blank");
@@ -24,3 +26,10 @@ function show(clase){
     })
     
 }
+
+var target = ""
+
+$("#comando").click(function(){
+    var target = $('input[name=color]:checked').val()+$('input[name=lupulado]:checked').val()+$('input[name=levadura]:checked').val()
+    show(target)
+})

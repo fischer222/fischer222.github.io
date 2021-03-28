@@ -13,21 +13,21 @@
 
 .opfiltro{
     
-    min-width: 5%;
+    min-width: 4%;
      
 }
 
 
 .filtro{
     margin-top: 1%;
-    margin-left: 2%;
+    margin-left: 1%;
     text-align: left;
     
 }
 
 .spanfiltro{
     
-    margin: 2%;
+    margin: 1%;
     font-size: x-large;
     font-weight: bolder;
     text-decoration: underline;
@@ -41,7 +41,7 @@ label{
 }
 
 #comando{
-    margin-left: 2%;
+    margin-left: 1%;
     font-size: x-large;
     font-weight: bolder;
     color: cornflowerblue;

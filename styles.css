@@ -2,13 +2,14 @@
 .cerveza{
     display: none;   
     overflow: hidden; 
-    margin: 0px; 
+    
     max-width: 186px; 
     max-height: 248px;
 }
 
 .container{
     margin-top: 2%;
+    margin-left: 1%;
 }
 
 .opfiltro{
@@ -52,4 +53,10 @@ label{
 
 .encabezado{
     background-color:lightgoldenrodyellow;
+}
+
+.holder{
+    display: none;
+      
+    
 }

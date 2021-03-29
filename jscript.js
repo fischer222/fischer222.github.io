@@ -16,7 +16,7 @@
 function show(clase){
     
     $("iframe").attr("src", "about:blank");
-    $(".cerveza").css("display","none");
+    $(".holder").css("display","none");
     
 
     $(clase).css("display","block");
